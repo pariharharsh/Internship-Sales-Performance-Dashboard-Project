@@ -28,11 +28,11 @@ Modern and intuitive dashboard design
 
 🛠️ Tools & Tech
 
-Database: MySQL / Excel / CSV (data source)
+Database:  Excel 
 
 Visualization: Power BI
 
-Data Modeling: SQL & Power Query
+Data Modeling: Power Query
 
 🎯 Outcome
 
